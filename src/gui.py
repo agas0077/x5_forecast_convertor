@@ -5,7 +5,7 @@ from Script import Script
 
 # Создаем окно с необходимыми параметрами
 window = Tk()
-window.title('Преобразователь недельных стоков X5')
+window.title('Преобразователь прогноза X5')
 window.geometry("500x300")
 window.resizable(width=False, height=False)
 window.configure(background='#2e8b57')
